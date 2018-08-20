@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Game2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>sad</name>
+			<value>file:/D:/eclipse/workspace/Game2/src/sad.png</value>
+		</variable>
+		<variable>
+			<name>thinking</name>
+			<value>file:/D:/eclipse/workspace/Game2/src/thinking.png</value>
+		</variable>
+	</variableList>
+</projectDescription>
